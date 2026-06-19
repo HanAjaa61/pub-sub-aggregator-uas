@@ -200,12 +200,6 @@ Data **aman melewati `docker compose down`**. Hanya hilang saat `docker compose 
 
 ---
 
-## Link Video Demo
-
-> [YouTube — akan ditambahkan sebelum submit]
-
----
-
 ## Struktur File
 
 ```
