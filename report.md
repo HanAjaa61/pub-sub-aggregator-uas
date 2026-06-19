@@ -15,8 +15,8 @@
 
 | | Tautan |
 |---|---|
-| **Repository GitHub** | *[isi link GitHub di sini]* |
-| **Video Demo (YouTube)** | *[isi link YouTube di sini]* |
+| **Repository GitHub** | *https://github.com/HanAjaa61/pub-sub-aggregator-uas* |
+| **Video Demo (YouTube)** | *https://youtu.be/urrc_x03qSg?si=ZHOc-PDo7vn8aglr* |
 
 ---
 
